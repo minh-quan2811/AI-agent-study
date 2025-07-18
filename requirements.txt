@@ -1,0 +1,12 @@
+langchain
+langgraph
+langsmith
+langchain-core
+langchain-community
+langchain-google-genai
+pydantic
+python-dotenv
+typing_extensions
+IPython
+google-generativeai
+requests
